@@ -1,0 +1,14 @@
+{
+  "name": "insult-generator",
+  "version": "1.0.0",
+  "description": "Generates an insult",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Batchelder",
+  "license": "MIT",
+  "bin": {
+    "insult": "./index.js"
+  }
+}
